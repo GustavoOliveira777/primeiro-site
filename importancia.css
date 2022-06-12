@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter & family= Nunito+Sans:wght@300 & family= Nuosu+SIL & family= Oswald:wght@500 & family= Poppins & family= Roboto+Serif:ital,opsz,wght@1,8..144,300 & family= Roboto:wght@300 & family= Titillium+Web:wght@600 & display=swap');
+
+
+p{
+    margin: 0 auto;
+    padding:0 ;
+}
+img{
+    max-width: 50%;
+    display: flex;
+   
+
+}
+
+.img-importante{
+    display:flex;
+    padding: 10px;
+    border: 0;
+    margin: 0;
+}
+p{
+    padding:1rem 10px ;
+}
+.text-one img{
+    max-width: 60%;
+    margin: auto;
+  border-radius: 10px;
+ 
+
+
+}
