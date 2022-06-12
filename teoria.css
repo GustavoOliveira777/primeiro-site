@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter & family= Nunito+Sans:wght@300 & family= Nuosu+SIL & family= Oswald:wght@500 & family= Poppins & family= Roboto+Serif:ital,opsz,wght@1,8..144,300 & family= Roboto:wght@300 & family= Titillium+Web:wght@600 & display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'inter', sans-serif;
+    text-decoration: none;
+}
+h2{
+    padding: 2rem;
+}
+.foto-dupla{
+    padding: 1rem 0;
+}
+.img-one{
+    padding: 3rem 0;
+}
