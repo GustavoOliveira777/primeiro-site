@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter & family= Nunito+Sans:wght@300 & family= Nuosu+SIL & family= Oswald:wght@500 & family= Poppins & family= Roboto+Serif:ital,opsz,wght@1,8..144,300 & family= Roboto:wght@300 & family= Titillium+Web:wght@600 & display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'inter', sans-serif;
+    text-decoration: none;
+}
+
+body {
+    font: normal 18px 'inter', sans-serif;
+}
+
+header {
+
+    background-color: #24252a;
+    box-shadow: 0px 2px 10px;
+
+}
+
+
+.nav-bar {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+   
+
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.logo h1 {
+    color: rgba(28, 28, 238, 0.753);
+    padding-right: 1rem;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+
+}
+
+.nav-list ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: rgba(255, 255, 255, 0.644);
+    font-weight: 400;
+    padding: 0 30px;
+}
+
+.login-botton button {
+    border: none;
+    background-color: rgba(28, 28, 238, 0.753);
+    padding: 13px 20px;
+    border-radius: 5px;
+
+
+}
+
+.login-botton {
+    padding: 15px 0;
+}
+
+.login-botton button a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.15rem;
+}
+
+.mobile-main div {
+    width: 30px;
+    height: 2px;
+    background-color: rgb(255, 255, 255);
+    margin: 8px;
+
+}
+
+.one-text {
+    padding-top: 3rem;
+}
+
+
+.img-central {
+    padding: 5rem 0;
+    text-align:center;
+}
+
+img {
+    max-width: 100%;
+    width: 700px;
+    border-radius: 2%;
+}
+
+.introducao {
+    max-width: 80%;
+    margin: auto;
+}
+
+h1,
+h2,
+h4,
+p {
+    max-width: 100%;
+    text-align: justify;
+    color: #24252a;
+
+}
+
+
+
+p {
+    padding: 15px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    max-width: 100%;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.text-one {
+    display: block;
+    margin: auto;
+}
+
+section {
+    max-width: 80%;
+    margin: auto;
+}
+
+.img-one {
+    max-width: 100%;
+    width: 700px;
+    border-radius: 2%;
+    margin: auto;
+}
+.one-click{
+cursor: pointer;
+}
+
+em {
+    color: blue;
+    font-size: 15px;
+}
+
+.img-one {
+    font-size: 14px;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.videoyt {
+    height: 280px;
+    width: 500px;
+}
+.footer.footer{
+    height: 100%;
+    background: #d5d6dd;
+    position: relative;
+}
+ .fale-conosco a{
+     text-decoration: none;
+
+ }
+
+
+.s-m li{
+   list-style:none ;
+   text-align: center;
+  margin: auto;
+  padding: 5px;
+  
+
+}
+.footer h2{
+    padding-bottom: 4px;
+}
+.sobremim p{
+    text-align: center;
+}
+.contato p{
+    text-align: center;
+}
+
+  .conteiner{
+      background-color: black;
+      
+  } 
+  .footer h2{
+      color:  rgba(28, 28, 238, 0.753);
+  }
+  .footer p{
+      color: #999a9e;
+  }
+
+
+ .footer.footer .conteiner{
+   display: grid;
+  grid-template-columns: repeat(3,1fr);
+ }
+ .footer.footer .conteiner > div{
+     flex-grow: 1;
+     flex-basis: 0;
+     padding: 3rem,0.9rem;
+
+ }
+
+
